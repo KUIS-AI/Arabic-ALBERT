@@ -4,6 +4,21 @@
 
 ## Pretraining data
 
+_If you use any of these models in your work, please cite this work as:_
+
+```
+@software{ali_safaya_2020_4718724,
+  author       = {Ali Safaya},
+  title        = {Arabic-ALBERT},
+  month        = aug,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {1.0.0},
+  doi          = {10.5281/zenodo.4718724},
+  url          = {https://doi.org/10.5281/zenodo.4718724}
+}
+```
+
 The models were pretrained on ~4.4 Billion words:
 
 - Arabic version of [OSCAR](https://oscar-corpus.com/) (unshuffled version of the corpus) - filtered from [Common Crawl](http://commoncrawl.org/)
